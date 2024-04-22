@@ -14,31 +14,4 @@ dependencies:
   - name: globex-web
     version: 0.1.0
     repository: file://globex-web
-  - name: recommendation-engine
-    version: 0.1.0
-    repository: file://recommendation-engine
-  - name: activity-tracking
-    version: 0.1.0
-    repository: file://activity-tracking
-  - name: activity-tracking-simulator
-    version: 0.1.0
-    repository: file://activity-tracking-simulator    
-  - name: order-simulator
-    version: 0.1.0
-    repository: file://order-simulator  
-  - name: kafka-broker
-    version: 0.1.0
-    repository: file://globex-mw/kafka-broker
-    condition: kafka.enabled 
-  - name: kafka-topics
-    version: 0.1.0
-    repository: file://globex-mw/kafka-topics
-    condition: kafka.enabled
-  - name: kafdrop
-    version: 0.1.0
-    repository: file://globex-mw/kafdrop
-    condition: kafka.enabled
-  - name: streams-console
-    version: 0.1.0
-    repository: file://globex-mw/streams-console
-    condition: kafka.enabled
+  

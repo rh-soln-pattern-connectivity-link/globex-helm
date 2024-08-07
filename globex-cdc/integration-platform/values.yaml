@@ -1,5 +1,0 @@
-nameOverride: globex-cdc
-
-enabled: false
-
-buildStrategy: pod

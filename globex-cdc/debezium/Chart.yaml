@@ -1,5 +1,0 @@
-apiVersion: v2
-name: debezium
-description: A Helm chart for Debezium connector
-type: application
-version: 0.1.0

@@ -11,31 +11,4 @@ dependencies:
   - name: globex-mobile-gateway
     version: 0.1.0
     repository: file://globex-mobile-gateway
-  # - name: globex-partner-gateway
-  #   version: 0.1.0
-  #   repository: file://globex-partner-gateway
-  # - name: globex-partner-web
-  #   version: 0.1.0
-  #   repository: file://globex-partner-web
-  # - name: threescale-tenant-secret
-  #   version: 0.1.0
-  #   repository: file://threescale-tenant-secret
-  # - name: service-registry
-  #   version: 0.1.0
-  #   repository: file://../service-registry
-  #   condition: serviceRegistry.deploy
-  # - name: mobile-gateway-backend
-  #   version: 0.1.0
-  #   repository: file://mobile-gateway-backend
-  # - name: mobile-gateway-product
-  #   version: 0.1.0
-  #   repository: file://mobile-gateway-product
-  # - name: mobile-dev-account
-  #   version: 0.1.0
-  #   repository: file://mobile-dev-account
-  # - name: mobile-account-application
-  #   version: 0.1.0
-  #   repository: file://mobile-account-application
-  # - name: mobile-gateway-activedoc
-  #   version: 0.1.0
-  #   repository: file://mobile-gateway-activedoc
+  

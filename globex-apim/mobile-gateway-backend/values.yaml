@@ -1,8 +1,0 @@
-argocd:
-  enabled: true
-  syncwave: "1"
-
-backend:
-  name: "Globex Mobile Gateway Backend"
-  systemName: "globex-mobile-gateway-backend"
-  privateBaseURL: ""

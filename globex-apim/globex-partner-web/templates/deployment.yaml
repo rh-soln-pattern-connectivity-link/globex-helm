@@ -59,7 +59,7 @@ spec:
               valueFrom:
                 secretKeyRef:
                   name: globex-partner-web
-                  key: api-token-url
+                  key: {{ .Values.ssoApiTokenUrl }}
           securityContext:
             {{- toYaml .Values.securityContext | nindent 12 }}
       volumes:

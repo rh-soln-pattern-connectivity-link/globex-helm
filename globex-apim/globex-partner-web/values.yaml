@@ -73,3 +73,5 @@ api:
   clientid: "replaceme"
   clientsecret: "replaceme"
   tokenurl: "replaceme"
+
+ssoApiTokenUrl:

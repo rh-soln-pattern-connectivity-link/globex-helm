@@ -11,4 +11,10 @@ dependencies:
   - name: globex-mobile-gateway
     version: 0.1.0
     repository: file://globex-mobile-gateway
+  - name: globex-partner-web
+    version: 0.1.0
+    repository: file://globex-partner-web
+  - name: globex-partner-gateway
+    version: 0.1.0
+    repository: file://globex-partner-gateway
   

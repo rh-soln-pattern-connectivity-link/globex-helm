@@ -1,7 +1,7 @@
 replicaCount: 1
 
 image:
-  repository: quay.io/cloud-architecture-workshop/globex-mobile
+  repository: quay.io/rh_soln_pattern_rhcl/globex-mobile:latest
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: latest
